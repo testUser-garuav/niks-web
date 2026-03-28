@@ -134,7 +134,7 @@ export default function Home() {
               Plan My Trip
             </Link>
             <a
-              href="tel:+919876543210"
+              href="tel:+919690908566"
               className="rounded-full border-2 border-white/30 bg-white/10 px-8 py-4 text-lg font-semibold text-white backdrop-blur-sm transition-all hover:bg-white/20"
             >
               Call Us Now

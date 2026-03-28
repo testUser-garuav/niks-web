@@ -12,8 +12,8 @@ import {
 export const COMPANY_INFO = {
   name: "Devbhumi Travels",
   tagline: "Your Gateway to the Divine Land of Uttarakhand",
-  phone: "+91-9876543210",
-  whatsapp: "919876543210",
+  phone: "+91-9690908566",
+  whatsapp: "919690908566",
   email: "info@devbhumitravels.com",
   address: "Mall Road, Near Clock Tower, Dehradun, Uttarakhand 248001",
   workingHours: "Mon - Sat: 9:00 AM - 7:00 PM",

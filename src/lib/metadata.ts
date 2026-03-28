@@ -46,7 +46,7 @@ export function createTravelAgencyJsonLd() {
     description:
       "Premier travel agency in Uttarakhand offering customized tour packages for Char Dham Yatra, adventure treks, honeymoon trips, and wildlife safaris.",
     url: SITE_URL,
-    telephone: "+91-9876543210",
+    telephone: "+91-9690908566",
     email: "info@devbhumitravels.com",
     address: {
       "@type": "PostalAddress",
